@@ -1,0 +1,21 @@
+* {
+    font-family: "Roboto";
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: radial-gradient(black 18%, #4c035cf6, #360341f6);
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 144px;
+    font-weight: 300;
+}
